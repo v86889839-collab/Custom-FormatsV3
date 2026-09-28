@@ -43,7 +43,7 @@ Version 3 focuses on three core principles: **Performance**, **Lightweight**, **
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/v86889839-collab/custom-formats.git
+git clone https://github.com/v86889839-collab/Custom-FormatsV3.git
 cd custom-formats
 ```
 
@@ -56,7 +56,7 @@ python generators/gen_all.py
 ### 3. Test the parsers (V3)
 
 ```bash
-python custom_formats_v3.py
+python custom_formatsV3.py
 ```
 
 Example output:
