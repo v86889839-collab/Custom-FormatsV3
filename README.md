@@ -1,6 +1,3 @@
-# Custom-FormatsV3
-Updated version of Custom Formats, Performance and Speed added
-
 # Custom File Formats Toolkit V3
 
 A collection of custom file formats and Python parsers/generators for automation, Discord bots (ReBoot), system utilities (LUnlocker), and Roblox server management.
