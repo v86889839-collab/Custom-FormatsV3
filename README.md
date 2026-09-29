@@ -14,6 +14,12 @@ Version 3 focuses on three core principles: **Performance**, **Lightweight**, **
 - **Async wrappers** — `process_unkn_folder_async`, `run_pyru_async`, `parse_stxt_async`
 - **11 new formats** — `.cmdx`, `.ptbl`, `.rmap`, `.qset`, `.tcfg`, `.mmsg`, `.vset`, `.gcfg`, `.skey`, `.pfx`, `.ulog`
 - **Benchmark utility** — built-in `benchmark()` function for profiling
+## What i need to download?
+
+python (main, code will no work if no python)
+rustc .pyru format
+luajit .lujit format
+lua (luajit fallback)
 
 ## Formats Overview (20 total)
 
